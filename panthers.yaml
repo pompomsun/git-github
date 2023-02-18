@@ -7,7 +7,11 @@ members:
 - Stella
 - Anthony
 - Freddie
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach: Raymond
+>>>>>>> 9f9e31d (Edit Panthers)
 
 members:
 - Violet
